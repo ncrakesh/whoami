@@ -1,2 +1,2 @@
-# whoami
+# WhoAmI
 go-to individual
